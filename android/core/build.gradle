@@ -1,0 +1,6 @@
+apply plugin: 'java-library'
+
+dependencies {
+    implementation "com.gitlab.mega-oss:gamesupportlib:$gamesupport_version"
+    api "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+}

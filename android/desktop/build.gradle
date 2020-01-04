@@ -1,0 +1,8 @@
+apply plugin: 'java-library'
+
+project.ext.mainClassName = "com.mega.games.gamestartingkit.desktop.DesktopLauncher"
+
+dependencies {
+    implementation project(":core")
+    implementation "com.gitlab.mega-oss:gamesupport-desktop:$gamesupport_desktop_version"
+}
