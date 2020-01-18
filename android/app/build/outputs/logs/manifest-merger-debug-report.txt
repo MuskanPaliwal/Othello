@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/89bae4ea931ef0b0b07e7074dcc4d88c/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.gitlab.mega-oss:gamesupport-android:2.5.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/d42c93e467fe0379b20685e5dfd021d4/gamesupport-android-2.5.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/muskan/.gradle/caches/transforms-2/files-2.1/ab386e14ff352eb5fa9384070c680494/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/814051db8c2f29502bac1e8aa9e13705/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/bc84f31f9f223d7a2b7849ecd3ca658d/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/ebcd5fdd26196748cf0619c6ff62ccfe/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/63fb61b7970c8248f5e0224ca696a935/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/d19bcc592f387eda7c819cb38be08e5f/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/1959ee636ad08301643be2df23e6eb4b/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/ef3a2f0e11e216ecb26afc16a77ad76b/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/2472a1003c96db0f8fab0a8e4c0db2ce/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/c3ac429974c16314324b5de40ea1e1c0/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/a1b0c422fd613c1ac7982f77a9c965f8/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/ab271986974663c5b3a9f3e4aa9285e1/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/d54d9452e613ab9add0eaeb6cd990631/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/ff4c7244177f7e11bc72abc25668d425/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/e031407b433e767e3c11d912c427e175/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/32140db03ee7964912e775675909afe1/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/bc8900b7a4e6fde329c0acc9121be781/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/muskan/.gradle/caches/transforms-2/files-2.1/d693a9a8c83070798326e18233408cdd/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/ce3a4c8ad617da5ed6a20880a7e236b7/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/7d466bcac663a39d76b934f9425de01d/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/198643a0649edb7e30d9b5a7fe85665e/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/muskan/.gradle/caches/transforms-2/files-2.1/dad43504668d88bd1fa3fc5716b222f1/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/muskan/.gradle/caches/transforms-2/files-2.1/d1623baf07b2fab1f955fcbb550fe19d/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/muskan/.gradle/caches/transforms-2/files-2.1/23cdff6f01ae48e284b2814cb170f5db/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/muskan/.gradle/caches/transforms-2/files-2.1/1a6a586ba75f4588901701093cbe6ab3/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/ba0dc0217f0f913b50f068669199c109/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/muskan/.gradle/caches/transforms-2/files-2.1/ab386e14ff352eb5fa9384070c680494/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/muskan/.gradle/caches/transforms-2/files-2.1/ab386e14ff352eb5fa9384070c680494/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/e031407b433e767e3c11d912c427e175/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/e031407b433e767e3c11d912c427e175/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/32140db03ee7964912e775675909afe1/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/32140db03ee7964912e775675909afe1/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/e031407b433e767e3c11d912c427e175/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.mega.games.gamestartingkit.MainActivity
+ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:12:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/89bae4ea931ef0b0b07e7074dcc4d88c/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/89bae4ea931ef0b0b07e7074dcc4d88c/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.gitlab.mega-oss:gamesupport-android:2.5.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/d42c93e467fe0379b20685e5dfd021d4/gamesupport-android-2.5.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.gitlab.mega-oss:gamesupport-android:2.5.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/d42c93e467fe0379b20685e5dfd021d4/gamesupport-android-2.5.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/muskan/.gradle/caches/transforms-2/files-2.1/ab386e14ff352eb5fa9384070c680494/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/muskan/.gradle/caches/transforms-2/files-2.1/ab386e14ff352eb5fa9384070c680494/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/814051db8c2f29502bac1e8aa9e13705/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/814051db8c2f29502bac1e8aa9e13705/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/bc84f31f9f223d7a2b7849ecd3ca658d/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/bc84f31f9f223d7a2b7849ecd3ca658d/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/ebcd5fdd26196748cf0619c6ff62ccfe/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/ebcd5fdd26196748cf0619c6ff62ccfe/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/63fb61b7970c8248f5e0224ca696a935/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/63fb61b7970c8248f5e0224ca696a935/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/d19bcc592f387eda7c819cb38be08e5f/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/d19bcc592f387eda7c819cb38be08e5f/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/1959ee636ad08301643be2df23e6eb4b/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/1959ee636ad08301643be2df23e6eb4b/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/ef3a2f0e11e216ecb26afc16a77ad76b/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/ef3a2f0e11e216ecb26afc16a77ad76b/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/2472a1003c96db0f8fab0a8e4c0db2ce/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/2472a1003c96db0f8fab0a8e4c0db2ce/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/c3ac429974c16314324b5de40ea1e1c0/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/c3ac429974c16314324b5de40ea1e1c0/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/a1b0c422fd613c1ac7982f77a9c965f8/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/a1b0c422fd613c1ac7982f77a9c965f8/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/ab271986974663c5b3a9f3e4aa9285e1/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/ab271986974663c5b3a9f3e4aa9285e1/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/d54d9452e613ab9add0eaeb6cd990631/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/d54d9452e613ab9add0eaeb6cd990631/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/ff4c7244177f7e11bc72abc25668d425/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/ff4c7244177f7e11bc72abc25668d425/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/e031407b433e767e3c11d912c427e175/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/e031407b433e767e3c11d912c427e175/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/32140db03ee7964912e775675909afe1/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/32140db03ee7964912e775675909afe1/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/bc8900b7a4e6fde329c0acc9121be781/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/bc8900b7a4e6fde329c0acc9121be781/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/muskan/.gradle/caches/transforms-2/files-2.1/d693a9a8c83070798326e18233408cdd/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/muskan/.gradle/caches/transforms-2/files-2.1/d693a9a8c83070798326e18233408cdd/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/ce3a4c8ad617da5ed6a20880a7e236b7/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/ce3a4c8ad617da5ed6a20880a7e236b7/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/7d466bcac663a39d76b934f9425de01d/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/7d466bcac663a39d76b934f9425de01d/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/198643a0649edb7e30d9b5a7fe85665e/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/198643a0649edb7e30d9b5a7fe85665e/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/muskan/.gradle/caches/transforms-2/files-2.1/dad43504668d88bd1fa3fc5716b222f1/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/muskan/.gradle/caches/transforms-2/files-2.1/dad43504668d88bd1fa3fc5716b222f1/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/muskan/.gradle/caches/transforms-2/files-2.1/d1623baf07b2fab1f955fcbb550fe19d/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/muskan/.gradle/caches/transforms-2/files-2.1/d1623baf07b2fab1f955fcbb550fe19d/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/muskan/.gradle/caches/transforms-2/files-2.1/23cdff6f01ae48e284b2814cb170f5db/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/muskan/.gradle/caches/transforms-2/files-2.1/23cdff6f01ae48e284b2814cb170f5db/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/muskan/.gradle/caches/transforms-2/files-2.1/1a6a586ba75f4588901701093cbe6ab3/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/muskan/.gradle/caches/transforms-2/files-2.1/1a6a586ba75f4588901701093cbe6ab3/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/ba0dc0217f0f913b50f068669199c109/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/muskan/.gradle/caches/transforms-2/files-2.1/ba0dc0217f0f913b50f068669199c109/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/muskan/Othello/android/app/src/main/AndroidManifest.xml
